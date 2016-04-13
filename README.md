@@ -1,7 +1,8 @@
 >  If newspapers are going to maintain their "watchdog-of-the-government role", they are going to eventually have to have access to electronic data as well as paper data.
 >  
 >  That day has come.
->  *ndash; **Larry Sanders**, computer-assisted reporting editor at _USA Today_, in 1991.
+>  
+>  &ndash; **Larry Sanders**, computer-assisted reporting editor at _USA Today_, in 1991.
 
 
 # The classic CAR manual: When Nerds and Words Collide
