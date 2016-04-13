@@ -7,9 +7,9 @@
 
 # The classic CAR manual: "When Nerds and Words Collide" 
 
-_**When Nerds and Words Collide**: Reflections on the Development of Computer Assisted Reporting_ (1999) was published by [The Poynter Institute](http://www.poynter.org) more than 15 years ago. But the 59-page manual contains timeless wisdom and insights into the work of computer-assisted investigative journalism.
+The 59-page manual, _**When Nerds and Words Collide**: Reflections on the Development of Computer Assisted Reporting_ was first published by [The Poynter Institute](http://www.poynter.org) in 1999. But its insights into the work of computer-assisted investigative journalism is just as true more than 15 years later:
 
-From [the introduction](https://www.documentcloud.org/documents/757701#document/p8):
+From [its introduction](https://www.documentcloud.org/documents/757701#document/p8):
 
 > In this collection you will find their definitions of CAR, reminiscences of their discovery of CAR, recollections of favorite “How I got ’em” CAR stories, and hard-earned advice to beginners and seasoned journalists venturing into the use of these ways of reporting...
 > 
@@ -17,7 +17,7 @@ From [the introduction](https://www.documentcloud.org/documents/757701#document/
 
 [Investigative Reporters & Editors](http://ire.org/) has made *When Nerds and Words Collide* [free to download as a scanned PDF](http://store.ire.org/products/when-nerds-and-words-collide-reflections-on-the-development-of-computer-assisted-reporting). 
 
-The manual can also be found on [DocumentCloud](https://www.documentcloud.org/documents/757701), in an easy-to-browse-within-your-web-browser format:
+[DocumentCloud](https://www.documentcloud.org/documents/757701) has an easy-to-browse-within-your-web-browser format:
 
 https://www.documentcloud.org/documents/757701
 
@@ -25,9 +25,9 @@ https://www.documentcloud.org/documents/757701
 
 
 
-# The project to free "When Nerds and Words Collide" from its PDF Prison
+# Liberate "Nerds and Words" from its PDF Prison
 
-What better tribute to give *When Nerds and Words Collide* than to set it free from its paper tomb and elevate it to a new heavenly body in the cloud servers, with  integrated, multi-platform-functionality!
+But why settle for  *When Nerds and Words Collide* in PDF format? Let's fight its fight against non-machine-readable formats. Let's free it from its paper tomb and elevate it into the cloud servers, into a new heavenly body with  integrated, multi-platform-functionality!
 
 ## Manifest
 
