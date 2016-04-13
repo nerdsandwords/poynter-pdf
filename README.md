@@ -1,13 +1,12 @@
 >  If newspapers are going to maintain their "watchdog-of-the-government role", they are going to eventually have to have access to electronic data as well as paper data.
 >  
 >  That day has come.
+>  *ndash; **Larry Sanders**, computer-assisted reporting editor at _USA Today_, in 1991.
 
-- Larry Sanders, computer-assisted reporting editor at _USA Today_, in 1991.
 
+# The classic CAR manual: When Nerds and Words Collide
 
-# The classic CAR manual: "When Nerds and Words Collide" 
-
-The 59-page manual, _**When Nerds and Words Collide**: Reflections on the Development of Computer Assisted Reporting_ was first published by [The Poynter Institute](http://www.poynter.org) in 1999. But its insights into the work of computer-assisted investigative journalism is just as true more than 15 years later:
+The 59 pages of _**When Nerds and Words Collide**: Reflections on the Development of Computer Assisted Reporting_ were first published in 1999 [The Poynter Institute](http://www.poynter.org). But its insights into the work of computer-assisted investigative journalism remain true more than 15 years later:
 
 From [its introduction](https://www.documentcloud.org/documents/757701#document/p8):
 
