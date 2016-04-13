@@ -1,0 +1,7 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ .font0 { font:8pt AppleGothic; }
+ .font1 { font:9pt Times New Roman, serif; }

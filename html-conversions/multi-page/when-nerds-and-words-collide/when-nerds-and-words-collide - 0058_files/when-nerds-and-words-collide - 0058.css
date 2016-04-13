@@ -1,0 +1,7 @@
+﻿ table.main {}
+ tr.row {}
+ td.cell {}
+ div.block {}
+ div.paragraph {}
+ .font0 { font:9pt Arial, sans-serif; }
+ .font1 { font:13pt Times New Roman, serif; }
