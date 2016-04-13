@@ -6,7 +6,9 @@ _**When Nerds and Words Collide**: Reflections on the Development of Computer As
 [Investigative Reporters & Editors](http://ire.org/) has since made *When Nerds and Words Collide* [free to download as a scanned PDF on its website](http://store.ire.org/products/when-nerds-and-words-collide-reflections-on-the-development-of-computer-assisted-reporting). This repo is just an attempt to translate it into more shareable HTML.
 
 
+If you're interested in just reading the manual, [DocumentCloud](https://www.documentcloud.org/documents/757701) has a hosted, easy-to-read copy:
 
+https://www.documentcloud.org/documents/757701
 
 # Status
 
