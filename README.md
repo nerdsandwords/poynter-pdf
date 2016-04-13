@@ -14,10 +14,10 @@ https://www.documentcloud.org/documents/757701
 
 This repo currently contains:
 
-- [pdfs/when-nerds-and-words-collide--tesseract-ocr.pdf] -- the scanned PDF with OCRed text via Tesseract, as processed and downloaded from [DocumentCloud](https://www.documentcloud.org/documents/757701).
-- [pdfs/when-nerds-and-words-collide--abbyy-ocr.pdf] -- the scanned PDF as processed and OCRed via ABBYY FineReader Pro for Mac.
-- [html-conversions/single-page/when-nerds-and-words-collide/] - The result of using FineReader Pro to convert the PDF to a __single-page__ HTML file, including a separate folder for all of the external media assets.
-- [html-conversions/multi-page/when-nerds-and-words-collide/] - The result of using FineReader Pro to convert the PDF to HTML, but with _each page_ converted into its own HTML file and assets folder.
+- [pdfs/when-nerds-and-words-collide--tesseract-ocr.pdf](pdfs/when-nerds-and-words-collide--tesseract-ocr.pdf]) -- the scanned PDF with OCRed text via Tesseract, as processed and downloaded from [DocumentCloud](https://www.documentcloud.org/documents/757701).
+- [pdfs/when-nerds-and-words-collide--abbyy-ocr.pdf](pdfs/when-nerds-and-words-collide--abbyy-ocr.pdf) -- the scanned PDF as processed and OCRed via ABBYY FineReader Pro for Mac.
+- [html-conversions/single-page/when-nerds-and-words-collide/](html-conversions/single-page/when-nerds-and-words-collide/) - The result of using FineReader Pro to convert the PDF to a __single-page__ HTML file, including a separate folder for all of the external media assets.
+- [html-conversions/multi-page/when-nerds-and-words-collide/](html-conversions/multi-page/when-nerds-and-words-collide/) - The result of using FineReader Pro to convert the PDF to HTML, but with _each page_ converted into its own HTML file and assets folder.
 
 
 I think the best approach is to do a quick HTML text extraction on the __multi-page__ conversion, creating a separate text file for each page. People can then make quick fixes to the main body text. And then everything can be glued together, albeit manually (it's only 59 pages).
