@@ -7,7 +7,7 @@
 
 # The classic CAR manual: When Nerds and Words Collide
 
-The 59 pages of _**When Nerds and Words Collide**: Reflections on the Development of Computer Assisted Reporting_ were first published in 1999 [The Poynter Institute](http://www.poynter.org). But its insights into the work of computer-assisted investigative journalism remain true more than 15 years later:
+_**When Nerds and Words Collide**: Reflections on the Development of Computer Assisted Reporting_, was first published as a 59-page manual in 1999 by [the Poynter Institute](http://www.poynter.org). But its insights into the work of computer-assisted investigative journalism remain just as true more than 15 years later:
 
 From [its introduction](https://www.documentcloud.org/documents/757701#document/p8):
 
