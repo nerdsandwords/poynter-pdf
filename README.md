@@ -59,7 +59,10 @@ Feel free to fork/clone this repo. Or suggest [something in the issues](https://
 
 - [x] Extract plaintext from the body paragraph elements from every article page in the [multi-page HTML directory](html-conversions/multi-page/when-nerds-and-words-collide/)
 - [x] Convert quirky tags, e.g. `<span class="font1" style="font-weight:bold;">`, to more standard tags, e.g. `<strong>`
-  - [ ]  Figure out what to do with img tags and assets
+  - [?] Figure out what to do with img tags and assets
+  - [ ] Replace div
+  - [ ] Enclose consecutive li in ul
+  - [ ] Replace consecutive em/strong tags in single tag
 - [ ] Convert to a cleaned markdown version 
 - [ ] Goad people into doing the manual translation work.
 - [ ] Build Jekyll/Middleman static site and deploy
