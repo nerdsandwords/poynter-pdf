@@ -44,7 +44,7 @@ I think the best approach is to do a quick HTML text extraction on the __multi-p
 
 Feel free to fork/clone this repo. Or suggest [something in the issues](https://github.com/nerdsandwords/poynter-pdf/issues).
 
-
+- [ ] Convert quirky tags, e.g. `<span class="font1" style="font-weight:bold;">`, to more standard tags, e.g. `<strong>`
 - [ ] Extract plaintext from the body paragraph elements from every article page in the [multi-page HTML directory](html-conversions/multi-page/when-nerds-and-words-collide/)
 - [ ] Goad people into doing the manual translation work.
 - [ ] ???
