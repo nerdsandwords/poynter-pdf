@@ -88,4 +88,4 @@ if __name__ == '__main__':
         cname = join(CLEANED_DIR, basename(fn))
         with open(cname, 'w') as wf:
             wf.write(HEAD_STR.format(title=basename(fn)))
-            wf.write(body.prettify())
+            wf.write(body.prettify(formatter=lambda s: s.replace(u'\xa0', ' ')))
