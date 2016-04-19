@@ -45,7 +45,7 @@ This repo currently contains:
 
 ### Cleaned files
 
-- [cleaned/multi-page/html/](cleaned/multi-page/html/) - The ABBYY multi-page versions with simplified HTML, as a result of running [lib/clean_html.py](lib/clean_html.py). The next step is to convert this to Markdown, which can then easily be edited for mistakes.
+- [cleaned/multi-page/html/](cleaned/multi-page/html/) - The ABBYY multi-page versions with simplified HTML, as a result of running [scripts/clean_html.py](lib/clean_html.py). The next step is to convert this to Markdown, which can then easily be edited for mistakes.
 
 
 
