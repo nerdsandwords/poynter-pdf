@@ -33,10 +33,21 @@ But why settle for  *When Nerds and Words Collide* in PDF format? Let's fight it
 
 This repo currently contains:
 
+### Original files
+
 - [pdfs/when-nerds-and-words-collide--tesseract-ocr.pdf](pdfs/when-nerds-and-words-collide--tesseract-ocr.pdf) -- the scanned PDF with OCRed text via Tesseract, as processed and downloaded from [DocumentCloud](https://www.documentcloud.org/documents/757701).
 - [pdfs/when-nerds-and-words-collide--abbyy-ocr.pdf](pdfs/when-nerds-and-words-collide--abbyy-ocr.pdf) -- the scanned PDF as processed and OCRed via ABBYY FineReader Pro for Mac.
+
+### PDF-to-HTML conversions
+
 - [html-conversions/single-page/when-nerds-and-words-collide/](html-conversions/single-page/when-nerds-and-words-collide/) - The result of using FineReader Pro to convert the PDF to a __single-page__ HTML file, including a separate folder for all of the external media assets.
 - [html-conversions/multi-page/when-nerds-and-words-collide/](html-conversions/multi-page/when-nerds-and-words-collide/) - The result of using FineReader Pro to convert the PDF to HTML, but with _each page_ converted into its own HTML file and assets folder.
+
+### Cleaned files
+
+- [cleaned/multi-page/html/](cleaned/multi-page/html/) - The ABBYY multi-page versions with simplified HTML, as a result of running [lib/clean_html.py](lib/clean_html.py). The next step is to convert this to Markdown, which can then easily be edited for mistakes.
+
+
 
 ## Tentative steps
 
@@ -44,9 +55,12 @@ I think the best approach is to do a quick HTML text extraction on the __multi-p
 
 Feel free to fork/clone this repo. Or suggest [something in the issues](https://github.com/nerdsandwords/poynter-pdf/issues).
 
-- [ ] Convert quirky tags, e.g. `<span class="font1" style="font-weight:bold;">`, to more standard tags, e.g. `<strong>`
-- [ ] Extract plaintext from the body paragraph elements from every article page in the [multi-page HTML directory](html-conversions/multi-page/when-nerds-and-words-collide/)
+- [x] Extract plaintext from the body paragraph elements from every article page in the [multi-page HTML directory](html-conversions/multi-page/when-nerds-and-words-collide/)
+- [x] Convert quirky tags, e.g. `<span class="font1" style="font-weight:bold;">`, to more standard tags, e.g. `<strong>`
+  - [ ]  Figure out what to do with img tags and assets
+- [ ] Convert to a cleaned markdown version 
 - [ ] Goad people into doing the manual translation work.
+- [ ] Build Jekyll/Middleman static site and deploy
 - [ ] ???
 - [ ] Prophet
 
